@@ -7,7 +7,7 @@
         <div class="grid">
             
             <div class="card" style="padding: 0; overflow: hidden; text-align: left;">
-                <div style="width: 100%; height: 230px; background: url('obrázek_2.png') no-repeat center center/cover; border-bottom: 2px solid var(--primary-color);"></div>
+                <div style="width: 100%; height: 230px; background: url('image_2.png') no-repeat center center/cover; border-bottom: 2px solid var(--primary-color);"></div>
                 
                 <div style="padding: 25px;">
                     <div style="color: var(--primary-color); font-weight:700; font-size:0.75rem; text-transform:uppercase;">Hlavní nabídka</div>
