@@ -37,12 +37,22 @@
             </div>
 
             <div class="card" style="padding: 25px;">
-                <div style="color: var(--text-gray); font-weight:700; font-size:0.7rem; text-transform:uppercase;">Doplňky</div>
-                <h3>Pivní set 200 x 50 cm</h3>
-                <ul class="card-list">
-                    <li>Sestava: 1x stůl + 2x lavice</li>
-                    <li>Kapacita 6-8 osob</li>
-                    <li>Samostatně od 4ks</li>
+              <div class="card" style="padding: 0; overflow: hidden; text-align: left;">
+                <div style="width: 100%; height: 230px; background: url('pivni-set.png') no-repeat center center/cover; border-bottom: 2px solid var(--border-color);"></div>
+                
+                <div style="padding: 25px;">
+                    <div style="color: var(--text-gray); font-weight:700; font-size:0.75rem; text-transform:uppercase;">Doplňky</div>
+                    <h3 style="margin-top: 5px; font-size: 1.3rem;">Pivní set 200 x 50 cm</h3>
+                    <ul class="card-list">
+                        <li>Sestava: 1x stůl + 2x lavice</li>
+                        <li>Kapacita 6 až 8 osob</li>
+                        <li>Stabilní provedení</li>
+                        <li>Samostatně od 4ks</li>
+                    </ul>
+                    <div class="price" style="margin-top: 20px;">330 Kč <span>s DPH</span></div>
+                    <a href="#kontakt" class="btn-main" style="display: block; text-align: center;">POPTAT</a>
+                </div>
+            </div>>
                 </ul>
                 <div class="price">330 Kč <span>s DPH</span></div>
                 <a href="#kontakt" class="btn-main">POPTAT TERMÍN</a>
