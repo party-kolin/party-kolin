@@ -13,7 +13,7 @@
         /* Hero sekce s textem od vás */
         header { 
             height: 80vh; 
-            background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?auto=format&fit=crop&w=1350&q=80') no-repeat center center/cover; 
+            background: llinear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.5)), url('Party 1200x628.jpg') no-repeat center center/cover; 
             display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; color: white; padding: 20px;
         }
         h1 { font-size: 3.5rem; margin: 0; text-transform: uppercase; }
