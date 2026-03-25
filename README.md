@@ -13,7 +13,7 @@
         /* Hero sekce s textem od vás */
         header { 
             height: 80vh; 
-            background: llinear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.5)), url('Party 1200x628.jpg') no-repeat center center/cover; 
+            background: llinear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.5)), url('uvod.jpg') no-repeat center center/cover; 
             display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; color: white; padding: 20px;
         }
         h1 { font-size: 3.5rem; margin: 0; text-transform: uppercase; }
